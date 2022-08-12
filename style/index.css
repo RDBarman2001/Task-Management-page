@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: rgba(144, 185, 247, 0.377) !important;
+}
+.add__new__btn__mobile__only{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 15px 10px;
+    z-index: 3;
+    width: 100%;
+    
+
+}
+.add__new__btn__mobile__only button{
+    border-radius: 50%;
+    height: 2.5rem;
+    width: 2.5rem;
+
+}
+.add__new__btn__mobile__only button i{
+    margin: auto;
+}
