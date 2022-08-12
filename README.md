@@ -1,2 +1,2 @@
-# Takz
+
 Taks management app
