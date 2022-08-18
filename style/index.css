@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background: rgba(144, 185, 247, 0.377) !important;
+    background: rgb(178, 231, 252) !important;
 }
 .add__new__btn__mobile__only{
     position: fixed;
@@ -23,4 +23,26 @@ body{
 }
 .add__new__btn__mobile__only button i{
     margin: auto;
+}
+.navbar{
+    border-radius: 60px;
+    padding: 20px; 
+    margin: 3px;
+}
+
+.btn-custom {
+    width: 5.5rem;
+    height: 2.5rem;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    background: rgba(255, 255, 255, 0.977) !important;
+    color: rgb(11, 2, 53) !important;
+    padding: 1px !important;
+    border-radius: 20px !important;
+}
+.form-control-custom{
+    border-radius: 2.375rem !important;
+}
+.input-group-custom {
+    border-radius: 50px !important;
 }
