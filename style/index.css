@@ -3,9 +3,17 @@
     margin: 0;
 }
 body{
-    background: rgba(144, 185, 247, 0.377) !important;
+    background: rgb(178, 231, 252) !important;
 }
-.add__new__btn__mobile__only{
+.navbar { 
+    border-radius: 60px;
+    padding: 20px;
+    margin: 3px;
+font-weight: 600;
+}
+    
+
+.add__new__btn{
     position: fixed;
     bottom: 0;
     right: 0;
@@ -13,14 +21,20 @@ body{
     z-index: 3;
     width: 100%;
     
-
 }
-.add__new__btn__mobile__only button{
+.add__new__btn  button{
     border-radius: 50%;
     height: 2.5rem;
     width: 2.5rem;
 
 }
-.add__new__btn__mobile__only button i{
+.add__new__btn button i{
     margin: auto;
+}
+
+.form-control-custom{
+    border-radius: 2.375rem !important;
+}
+.input-group-custom {
+    border-radius: 50px !important;
 }
