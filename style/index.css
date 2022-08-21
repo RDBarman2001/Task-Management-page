@@ -3,8 +3,11 @@
     margin: 0;
 }
 body{
-    background: rgb(178, 231, 252) !important;
+    background: rgb(187, 226, 242) !important;
     height: 100vhs;
+}
+.navbar-brand {
+    color: white !important;
 }
 .navbar { 
     border-radius: 60px;
@@ -27,8 +30,8 @@ font-weight: 600;
 }
 .add__new__btn  button{
     border-radius: 50%;
-    height: 2.5rem;
-    width: 2.5rem;
+    height: 3rem;
+    width: 3rem;
 
 }
 .add__new__btn button i{
