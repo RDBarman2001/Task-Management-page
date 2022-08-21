@@ -24,12 +24,7 @@
             </a>
         </div>
     </nav>
-    <div class="add__new__btn">
-        <button class="btn btn-primary d-flex align-items-center gap-2" type="submit" data-bs-toggle="modal"
-            data-bs-target="#addNewModal">
-            <i class="fas fa-plus"></i>
-        </button>
-    </div>
+
 
     <div class="modal fade" id="addNewModal" tabindex="-1" aria-labelledby="addNewModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
@@ -42,22 +37,21 @@
                     <form onsubmit="return false">
                         <div class="mb-3">
                             <label for="imageUrl" class="form-label">Image URL</label>
-                            <input type="url" class="form-control" id="imageUrl"
-                                placeholder="http://emample.com/image.png" />
+                            <input type="url" class="form-control" id="imageUrl" placeholder="Enter The Image url" />
                         </div>
                         <div class="mb-3">
                             <label for="taskTitle" class="form-label">Task Title</label>
-                            <input type="text" class="form-control" id="taskTitle" placeholder="Learn Web Dev"
+                            <input type="text" class="form-control" id="taskTitle" placeholder="Enter The Title"
                                 required />
                         </div>
                         <div class="mb-3">
                             <label for="tags" class="form-label">Task Type</label>
-                            <input type="text" class="form-control" id="tags" placeholder="Work..." required />
+                            <input type="text" class="form-control" id="tags" placeholder="Enter The Type" required />
                         </div>
                         <div class="mb-3">
                             <label for="taskDescription" class="form-label">Task Description</label>
-                            <textarea class="form-control" id="taskDescription"
-                                placeholder="Explain something about it..." rows="4" required></textarea>
+                            <textarea class="form-control" id="taskDescription" placeholder="Enter The Task" rows="4"
+                                required></textarea>
                         </div>
                         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
                             Close
@@ -110,6 +104,14 @@
             <div class="row task__contents"></div>
         </section>
     </div>
+    <footer>
+        <div class="add__new__btn">
+            <button class="btn btn-primary d-flex align-items-center gap-2" type="submit" data-bs-toggle="modal"
+                data-bs-target="#addNewModal">
+                <i class="fas fa-plus"></i>
+            </button>
+        </div>
+    </footer>
 
     <script src="script/script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"

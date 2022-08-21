@@ -4,6 +4,7 @@
 }
 body{
     background: rgb(178, 231, 252) !important;
+    height: 100vhs;
 }
 .navbar { 
     border-radius: 60px;
@@ -14,12 +15,14 @@ font-weight: 600;
     
 
 .add__new__btn{
+
+    
     position: fixed;
     bottom: 0;
     right: 0;
     padding: 15px 10px;
     z-index: 3;
-    width: 100%;
+    
     
 }
 .add__new__btn  button{
