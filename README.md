@@ -6,7 +6,7 @@ Task managemant page build With jvascript And Bootstrap.
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Body Color | (https://via.placeholder.com/10/0a192f?text=+) ##bbe2f2 |
+| Body Color |  ##bbe2f2 |
 
 ## Functionality
 - Add New Task
