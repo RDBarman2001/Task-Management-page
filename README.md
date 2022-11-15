@@ -21,3 +21,4 @@ All Tasks
 ![TASKZ -Tasks](https://user-images.githubusercontent.com/71335076/201911492-14eacd91-2087-4b60-a0ad-44a725feae06.png)
 View Task
 ![TASKZ - view](https://user-images.githubusercontent.com/71335076/201911587-4a372575-5b7a-48a7-ac3b-a31c20f5e0d1.png)
+ # Mobile View
