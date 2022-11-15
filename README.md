@@ -8,6 +8,16 @@ Task managemant page build With jvascript And Bootstrap.
 | ----------------- | ------------------------------------------------------------------ |
 | Body Color | (https://via.placeholder.com/10/0a192f?text=+) ##bbe2f2 |
 
+## Functionality
+- Add New Task
+by using the "+" Button in right corner.
+You can Add Image Url ,Task Name,Type ,Details,
+time Stamp will be added autometically.
+- View tasks
+usig "Open Task" Button.
+- Search task
+using search bar you can search a task with title or keyword.
+- Edit And Delete Task in one click.
 
 
 ## Deployment Link
@@ -22,3 +32,6 @@ All Tasks
 View Task
 ![TASKZ - view](https://user-images.githubusercontent.com/71335076/201911587-4a372575-5b7a-48a7-ac3b-a31c20f5e0d1.png)
  # Mobile View
+![Screenshot_20221115-163201](https://user-images.githubusercontent.com/71335076/201912556-462167ad-9a20-4297-b5cd-f9bfb5d8d232.png)
+![Screenshot_20221115-163218](https://user-images.githubusercontent.com/71335076/201912596-b6bc83ca-68c1-44b6-b1b3-7a71bce22feb.png)
+![Screenshot_20221115-163224](https://user-images.githubusercontent.com/71335076/201912629-53c8777a-e045-4ea0-88e3-7ba0bba5f3ad.png)
